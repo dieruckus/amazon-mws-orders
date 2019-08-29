@@ -7,7 +7,7 @@ Installation
 
 Install [Composer](http://getcomposer.org/) and add amazon-mws-orders to your `composer.json`:
 
-    composer require aivanouski/amazon-mws-orders:dev-master
+    composer require dieruckus/amazon-mws-orders:dev-master
 
 Version
 -------
@@ -18,7 +18,7 @@ Installation
 ----------
 Add the reference into your composer.json : 
 ```
-    "aivanouski/amazon-mws-orders": "dev-master"
+    "dieruckus/amazon-mws-orders": "dev-master"
 	composer update
 ```
 
